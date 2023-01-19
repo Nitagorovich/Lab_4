@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <item id="1">
+        <img>pictures/succulent5.png</img>
+        <name>Kecubung Plants</name>
+        <cost>75.000</cost>
+    </item>
+    <item id="2">
+        <img>pictures/succulent4.png</img>
+        <name>Kaktus Plants</name>
+        <cost>95.000</cost>
+    </item>
+    <item id="3">
+        <img>pictures/succulent3.png</img>
+        <name>Kecubung Plants</name>
+        <cost>80.000</cost>
+    </item>
+    <item id="4">
+        <img>pictures/succulent2.png</img>
+        <name>Landak Plants</name>
+        <cost>120.000</cost>
+    </item>
+    <item id="5">
+        <img>pictures/succulent1.png</img>
+        <name>Kaktus Plants</name>
+        <cost>100.000</cost>
+    </item>
+    <item id="6">
+        <img>pictures/succulent5.png</img>
+        <name>Landak Plants</name>
+        <cost>115.000</cost>
+    </item>
+</items>
